@@ -208,7 +208,7 @@ Si descubre algún problema relacionado con la seguridad, divulgue la informaci�
 * [Metodología Ágil](https://github.com/Tecsoess/Metodologia-Agil/wiki)
     * [Scrum And Extreme Programming](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-I:-SCRUM-AND-EXTREME-PROGRAMMING)
     * [Project Managment](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-II:--PROJECT-MANAGMENT)
-    * [Project Managment II](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-III:--PROJECT-MANAGMENT-II))
+    * [Project Managment II](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-III:--PROJECT-MANAGMENT-II)
     * [Agile Project Management With Scrum](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-IV:-AGILE-PROJECT-MANAGEMENT-WITH-SCRUM)
     * [Como Ser Un Srum Master Extraordinario](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-V:-COMO-SER-UN-SRUM-MASTER-EXTRAORDINARIO)
     * [Proyectos Agiles Con Scrum](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-VI:-PROYECTOS-AGILES-CON-SCRUM)
