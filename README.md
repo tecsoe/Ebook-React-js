@@ -150,7 +150,7 @@ react-native run-android
 
 En una configuración de producción, todas las comunicaciones del lado del cliente al lado del servidor (backend, API) deben cifrarse mediante HTTPS/WSS/SSL (API REST, extremo de GraphQL, Socket.io WebSockets, etc.).
 
-Si descubre algún problema relacionado con la seguridad, divulgue la información de manera responsable enviando un correo electrónico a [atencionalcliente@beneficiosi.com()
+Si descubre algún problema relacionado con la seguridad, divulgue la información de manera responsable enviando un correo electrónico a atencionalcliente@beneficiosi.com()
 
 
 
