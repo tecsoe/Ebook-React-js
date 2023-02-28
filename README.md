@@ -175,7 +175,7 @@ Si descubre alg√∫n problema relacionado con la seguridad, divulgue la informaci√
     * [Progressive web apps with react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-IX:-PROGRESSIVE-WEB-APPS-WITH-REACT)
     * [Mastering react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-V:-MASTERING-REACT)
     * [Fullstack react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-VI:-FULLSTACK-REACT)
-    * [Getting started with react(https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-VII:-GETTING-STARTED-WITH-REACT)
+    * [Getting started with react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-VII:-GETTING-STARTED-WITH-REACT)
     * [Mastering react natives](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-VIII:-MASTERING-REACT-NATIVE)
     * [React and react native](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-X:-REACT-AND-REACT-NATIVE)
     * [React native blueprints](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-XI:-REACT-NATIVE-BLUEPRINTS)
