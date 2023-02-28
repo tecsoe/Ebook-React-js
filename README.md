@@ -63,10 +63,22 @@
 * ## Cliente
     Frontend principal para el marketplace Beneficio Si
     
-    * Link : https://github.com/Tecsoess/beneficiosi-clients-front
+    * Link : https://github.com/tecsoe/beneficiosi-clients-front-Components
 
 ## Instalación
 
+```
+git clone https://github.com/tecsoe/beneficiosi-clients-front-Components.git
+cd beneficiosi-clients-front-Components
+npm install
+cp .env-example .env
+```
+
+## Configurar variables de entorno en el archivo .env
+
+```
+npm run start
+```
 
 
 
