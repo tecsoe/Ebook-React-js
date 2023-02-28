@@ -119,15 +119,38 @@ cp .env-example .env
 npm run start:dev
 ```
 
+### APP movil de Beneficiosi
 
+Aplicaion móvil creada en [React-Native ](https://reactnative.dev/) para el marketplace [Beneficio Si](http://tubeneficiosi.com/)
 
+![](https://i.imgur.com/SuzDBkd.png)
 
+## Requisitos
 
+* [NodeJs](https://nodejs.org/es/download/)
+* [Android Studio]()
 
+## Instalación e Inicialización
 
+1. Clonar el repositorio.
+2. Cambiar a la rama develop.
+3. Instalar las dependencias con node.
+4. Iniciar el emulador android o conectar el dispositivo android a la pc por usb.
+5. Iniciar la app 5.1 Iniciar el bundle 5.2 Compilar la app.
 
+```
+git clone https://github.com/JeyverVegas/BeneficioSiApp.git
+git checkout develop
+npm i
+react-native
+react-native run-android
+```
 
+### Seguridad
 
+En una configuración de producción, todas las comunicaciones del lado del cliente al lado del servidor (backend, API) deben cifrarse mediante HTTPS/WSS/SSL (API REST, extremo de GraphQL, Socket.io WebSockets, etc.).
+
+Si descubre algún problema relacionado con la seguridad, divulgue la información de manera responsable enviando un correo electrónico a [atencionalcliente@beneficiosi.com()
 
 
 
