@@ -80,6 +80,59 @@ cp .env-example .env
 npm run start
 ```
 
+* ## Administrador
+Frontend de administración para el marketplace [Beneficio Si](http://tubeneficiosi.com/)
+
+ * Link : https://github.com/Tecsoess/beneficiosi-admins-front
+
+
+## Instalación
+
+```
+git clone https://github.com/Tecsoess/beneficiosi-admins-front.git
+cd beneficiosi-admins-front
+npm install
+cp .env-example .env
+```
+
+###Configurar variables de entrono en el archivo .env
+```
+npm run start
+```
+
+### API de Beneficiosi
+
+API de conexión para el marketplace Beneficio Si
+    * Link: https://github.com/Tecsoess/beneficiosi-api
+    
+## Instalación
+
+```
+git clone https://github.com/ICKillerGH/beneficiosi-api.git
+cd beneficiosi-api
+npm install
+cp .env-example .env
+```
+
+## Configurar variables de entorno en el archivo.env
+```
+npm run start:dev
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
